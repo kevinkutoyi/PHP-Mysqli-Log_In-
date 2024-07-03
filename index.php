@@ -13,7 +13,7 @@ include_once 'header.php';
     <br>
 
     <label for="email"><b>Name</b></label>
-    <input type="text" placeholder="Enter Email" name="Fullname">
+    <input type="text" placeholder="Enter Name" name="fullname">
     <br>
 
     <label for="email"><b>Email</b></label>
@@ -37,7 +37,7 @@ include_once 'header.php';
     </label>
     <br>
 
-    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to stated <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
 
     <div class="clearfix">
       <button type="button" class="cancelbtn">Cancel</button>
